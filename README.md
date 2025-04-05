@@ -1,6 +1,6 @@
 # class_live_streaming
 
-A new Flutter project.
+ Flutter-based application that enables real-time video and audio streaming using an RTMP URL ensuring smooth video playback in educational or event-based scenarios.
 
 ## Getting Started
 
