@@ -2,6 +2,9 @@
 
  Flutter-based application that enables real-time video and audio streaming using an RTMP URL ensuring smooth video playback in educational or event-based scenarios.
 
+**Student App**    
+[https://github.com/username/student-app-repo](https://github.com/Saniajain1320/student_app.git)  <!-- Replace with actual link -->
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
